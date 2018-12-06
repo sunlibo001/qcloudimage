@@ -1,0 +1,18 @@
+{
+    "name": "qcloudimage/qcloudimage_php",
+    "description": "腾讯人脸识别",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sunshine",
+            "email": "715045421@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "\\Qcloud\\image\\": "src/"
+        }
+    }	
+}
